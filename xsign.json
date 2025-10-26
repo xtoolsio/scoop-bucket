@@ -1,0 +1,22 @@
+{
+    "version": "0.1.30",
+    "architecture": {
+        "64bit": {
+            "url": "https://xtools.blob.core.windows.net/downloads/xSign/v0.1.30/xsign_Windows_x86_64.zip",
+            "bin": [
+                "xsign.exe"
+            ],
+            "hash": "c118415b53bd93e09190e44f0f20ade48b249e6507604f062ac8813b0c7b4d9d"
+        },
+        "arm64": {
+            "url": "https://xtools.blob.core.windows.net/downloads/xSign/v0.1.30/xsign_Windows_arm64.zip",
+            "bin": [
+                "xsign.exe"
+            ],
+            "hash": "e86c5ba82eeaee2c8bda3ad1d5e82997b8c49307146184221149062e7e6bf1aa"
+        }
+    },
+    "homepage": "https://github.com/xtoolsio/xTools",
+    "license": "MIT",
+    "description": "xSign - Code signing client for Windows"
+}
