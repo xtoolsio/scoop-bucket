@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.1.0/qbcli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "qbcli.exe"
+            ],
+            "hash": "3c5269c7609308b01e901fdc3811a9eb5fa1cc39d1f8164b4e1722330e2b3cbf"
+        },
+        "arm64": {
+            "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.1.0/qbcli_0.1.0_windows_arm64.zip",
+            "bin": [
+                "qbcli.exe"
+            ],
+            "hash": "1e677ef440076326f37b36123d018a74d4a3ce617923948a9cef278fce29321d"
+        }
+    },
+    "homepage": "https://github.com/xtoolsio/xTools",
+    "license": "MIT",
+    "description": "qbcli - Command-line interface for QuickBooks Online"
+}
