@@ -6,14 +6,14 @@
             "bin": [
                 "qbcli.exe"
             ],
-            "hash": "8420b63ea4ff2d30b3db5bd4b0ae216637c669fc6985907ec53d4bf9c33dddb9"
+            "hash": "4e15eddb0701515b0c6f1bc9f5b7400659391044a0c5bf36ff8156e92f429877"
         },
         "arm64": {
             "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.4.0/qbcli_0.4.0_windows_arm64.zip",
             "bin": [
                 "qbcli.exe"
             ],
-            "hash": "986b3109ed3b76e9df121e4ecaeaf1eea231ba6bf4bd0cacc7eb1b1e36d1942d"
+            "hash": "0312a863fa1ac2b5cfdc8e0991d127b66995dbb141f3aeb3a85af304dd5d7519"
         }
     },
     "homepage": "https://github.com/xtoolsio/xTools",
