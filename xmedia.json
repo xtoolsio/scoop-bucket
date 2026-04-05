@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia/v0.1.0/xmedia_0.1.0_windows_amd64.zip",
+            "bin": [
+                "xmedia.exe"
+            ],
+            "hash": "3c889ff08014c695dd68cacba8370a3d9b484f74177e0f41f0a3f7b4d77bd1b3"
+        },
+        "arm64": {
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia/v0.1.0/xmedia_0.1.0_windows_arm64.zip",
+            "bin": [
+                "xmedia.exe"
+            ],
+            "hash": "ec20ea3707fe7fbb40e5909c0d00d6f0fffea653c1332a6d4ef3470664ac6fbb"
+        }
+    },
+    "homepage": "https://github.com/xtoolsio/xTools",
+    "license": "MIT",
+    "description": "xmedia - Search and download movies \u0026 TV shows via your media server"
+}
