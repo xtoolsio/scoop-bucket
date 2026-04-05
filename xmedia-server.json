@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia-server/v0.1.0/xmedia-server_0.1.0_windows_amd64.zip",
+            "bin": [
+                "xmedia-server.exe"
+            ],
+            "hash": "be154734908ba6f94fa56441ee92b9e3b600a7b1f1a1275b9ff72931eb920d79"
+        },
+        "arm64": {
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia-server/v0.1.0/xmedia-server_0.1.0_windows_arm64.zip",
+            "bin": [
+                "xmedia-server.exe"
+            ],
+            "hash": "9913acf937cddd1e1f18fdcfcc3c0ae4b534d015f9a570539bebc9fc2a17c1a1"
+        }
+    },
+    "homepage": "https://github.com/xtoolsio/xTools",
+    "license": "MIT",
+    "description": "xmedia-server - Media stack API server for xmedia CLI"
+}
