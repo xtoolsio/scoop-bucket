@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia-server/v0.1.0/xmedia-server_0.1.0_windows_amd64.zip",
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia-server/v0.1.1/xmedia-server_0.1.1_windows_amd64.zip",
             "bin": [
                 "xmedia-server.exe"
             ],
-            "hash": "7193c7a800cb7aa03a90e72df8e0ae3ce79c5f47cb04ec8456e22613f7088a7b"
+            "hash": "c0a5b572d6b43d3a2365e0a14606e2f6a0b357d317cb8f7110cadbeba37a899d"
         },
         "arm64": {
-            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia-server/v0.1.0/xmedia-server_0.1.0_windows_arm64.zip",
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia-server/v0.1.1/xmedia-server_0.1.1_windows_arm64.zip",
             "bin": [
                 "xmedia-server.exe"
             ],
-            "hash": "78e1ccd5057c148fd665526f8d82391b9d2c3482a1c5bd797c2b772477c3ebe7"
+            "hash": "b2454cffdff78019d7afd8bb97c7d46bd643081c86139ca7afbb7d8e3026eb37"
         }
     },
     "homepage": "https://github.com/xtoolsio/xTools",
