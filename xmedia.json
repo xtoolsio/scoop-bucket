@@ -6,14 +6,14 @@
             "bin": [
                 "xmedia.exe"
             ],
-            "hash": "489923b7fc6831882d270ef70bb04505ee75fd945ca16fe02ad101c209a2f4e8"
+            "hash": "1e2f88a6d751645e9a9029a1b909ade344b9b267ba7140d3eacab559a935115b"
         },
         "arm64": {
             "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xmedia/v0.1.1/xmedia_0.1.1_windows_arm64.zip",
             "bin": [
                 "xmedia.exe"
             ],
-            "hash": "0c493faf71e87901d5aefe2a2c0dc0aadc2f1773d5f3d448e07afa09653ceb24"
+            "hash": "22e69470075cf49f341d6ea3677fe5e79956f38ecdda66a6a12d1745fccafe86"
         }
     },
     "homepage": "https://github.com/xtoolsio/xTools",
