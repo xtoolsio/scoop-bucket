@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xbid/v0.2.4/xbid_0.2.4_windows_amd64.zip",
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xbid/v0.2.5/xbid_0.2.5_windows_amd64.zip",
             "bin": [
                 "xbid.exe"
             ],
-            "hash": "ee7ffe82fc17b946a6ac993e110bd4e74769445647ba97747e41b468ec1bf85d"
+            "hash": "497151334647f36970b295bbd00949822aaa9cbced02e30445c89a5b291d0a1e"
         },
         "arm64": {
-            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xbid/v0.2.4/xbid_0.2.4_windows_arm64.zip",
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xbid/v0.2.5/xbid_0.2.5_windows_arm64.zip",
             "bin": [
                 "xbid.exe"
             ],
-            "hash": "f795c16e3ef651b7f93e8378d7a4fa23fecac0cb9365391161a5a5cf928b90dd"
+            "hash": "45bbdb792441e52b537d7f110b0b7b42b09060114e2df8bea9f4ac6299c0e26e"
         }
     },
     "homepage": "https://github.com/xtoolsio/xTools",
