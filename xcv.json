@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xcv/v0.1.0/xcv_0.1.0_windows_amd64.zip",
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xcv/v0.1.1/xcv_0.1.1_windows_amd64.zip",
             "bin": [
                 "xcv.exe"
             ],
-            "hash": "742209f5e30861d40e00e47c6cc93ace8c45259b0a3e393125ce3b516e58efbf"
+            "hash": "3aa3dd8bd72a408d310b2d61ade284351298662756b46f7692acbfadb4276990"
         },
         "arm64": {
-            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xcv/v0.1.0/xcv_0.1.0_windows_arm64.zip",
+            "url": "https://xtools-data.sfo3.digitaloceanspaces.com/downloads/xcv/v0.1.1/xcv_0.1.1_windows_arm64.zip",
             "bin": [
                 "xcv.exe"
             ],
-            "hash": "8782784c3302c547ad12257a8d822360fccf07cc6b34eee817de463ccc18d65d"
+            "hash": "2a9f1e1157c3b8bad8370366fd7e24b50c1f7fb50ead5d831ae4cc680aad530e"
         }
     },
     "homepage": "https://github.com/xtoolsio/xTools",
