@@ -1,19 +1,19 @@
 {
-    "version": "0.5.6",
+    "version": "0.5.7",
     "architecture": {
         "64bit": {
-            "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.5.6/qbcli_0.5.6_windows_amd64.zip",
+            "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.5.7/qbcli_0.5.7_windows_amd64.zip",
             "bin": [
                 "qbcli.exe"
             ],
-            "hash": "c1dec84c7f3122204afb7ce08df1a94e3c6629364a6f75feebbb73f9c95a4248"
+            "hash": "ce934ba69664076ab60687d4003e83cfcb76954b8ead599d9a618a07332842de"
         },
         "arm64": {
-            "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.5.6/qbcli_0.5.6_windows_arm64.zip",
+            "url": "https://xtools.blob.core.windows.net/downloads/qbcli/v0.5.7/qbcli_0.5.7_windows_arm64.zip",
             "bin": [
                 "qbcli.exe"
             ],
-            "hash": "480aaa9fdf2b676075633ef1c3602c7a9eb6d69e33e3775219e95c28c9cfee68"
+            "hash": "004a6b524684c927786b9e51052124852c7486a22527e124bd6ac4d72862bbbb"
         }
     },
     "homepage": "https://github.com/xtoolsio/xTools",
